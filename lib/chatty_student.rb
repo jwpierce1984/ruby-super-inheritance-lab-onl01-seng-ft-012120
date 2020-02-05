@@ -1,6 +1,6 @@
 require_relative "./student.rb"
 
-class Chatty_Student
+class ChattyStudent
   
   def hello
     super
@@ -12,6 +12,4 @@ class Chatty_Student
       super
     end
   end
-  
-  
 end
